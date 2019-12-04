@@ -1,0 +1,23 @@
+{
+  "name": "@promotively/prettier-config",
+  "author": {
+    "name": "Steven Ewing",
+    "email": "steven.ewing@promotively.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/promotively/prettier-config"
+  },
+  "homepage": "https://promotively.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "javascript",
+    "es6"
+  ],
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
