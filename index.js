@@ -1,7 +1,1 @@
-module.exports = {
-  arrowParens: "avoid",
-  bracketSpacing: true,
-  printWidth: 120,
-  singleQuote: true,
-  trailingComma: "none",
-};
+module.exports = JSON.parse(require('fs').readFileSync(require.resolve('./.prettierrc'), 'utf8').toString());
